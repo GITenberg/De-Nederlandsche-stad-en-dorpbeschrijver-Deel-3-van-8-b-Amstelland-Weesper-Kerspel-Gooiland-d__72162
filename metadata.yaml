@@ -1,0 +1,39 @@
+_repo: De-Nederlandsche-stad-en-dorpbeschrijver-Deel-3-van-8-b-Amstelland-Weesper-Kerspel-Gooiland-d__72162
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brouwer, Anna Catharina
+    alias: Brouwer, A.‏ (Anna Catharina)
+    birthdate: 1772
+    gutenberg_agent_id: '56572'
+    url: http://www.gutenberg.org/2009/agents/56572
+creator:
+  author:
+    agent_name: Ollefen, Lieve van
+    alias: Ollefen, L. V. (Lieve van)
+    birthdate: 1749
+    deathdate: 1816
+    gutenberg_agent_id: '56571'
+    url: http://www.gutenberg.org/2009/agents/56571
+description: ''
+gutenberg_issued: '2023-11-18'
+identifiers:
+  gutenberg: '72162'
+language: nl
+pgterms:marc905: 20171207073631vanollefen
+pgterms:marc906: '1797'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: '  $aAmsteldam :$bH.A. Banse, $c1797.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- Description and travel'
+- !lcc 'DJ'
+- GITenberg
+title: 'De Nederlandsche stad- en dorpbeschrijver, Deel 3 (van 8) : $b Amstelland,
+  Weesper Kerspel, Gooiland, de Loosdrecht enz.'
+url: http://www.gutenberg.org/ebooks/72162
