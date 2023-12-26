@@ -7,6 +7,9 @@ contributor:
     birthdate: 1772
     gutenberg_agent_id: '56572'
     url: http://www.gutenberg.org/2009/agents/56572
+covers:
+- cover_type: archival
+  image_path: 72162-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Ollefen, Lieve van
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '56571'
     url: http://www.gutenberg.org/2009/agents/56571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72162#De-Nederlandsche-stad-en-dorpbeschrijver-Deel-3-van-8-b-Amstelland-Weesper-Kerspel-Gooiland-d_
 gutenberg_issued: '2023-11-18'
 identifiers:
   gutenberg: '72162'
